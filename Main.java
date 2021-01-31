@@ -1,8 +1,4 @@
-import java.util.ArrayList;
 import java.util.Scanner;
-import java.util.concurrent.TimeUnit;
-
-import static java.lang.System.out;
 
 public class Main {
 
