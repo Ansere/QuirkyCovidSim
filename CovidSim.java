@@ -96,7 +96,7 @@ public class CovidSim{
             }
             System.out.println();
         }
-        System.out.println("Press enter to continue");
+        System.out.println("Press enter to continue or type something to end the simulation");
     }
     public static Person[][] nextGeneration(Person[][] people, int day){
         Person[][] nextGeneration = new Person[people.length][people.length];
